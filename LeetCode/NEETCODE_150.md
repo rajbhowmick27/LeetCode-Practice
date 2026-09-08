@@ -162,7 +162,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 
 ### 📂 Intervals
 - [ ] Insert Interval
-- [x] [Merge Intervals](./C++/Medium/56. Merge Intervals/)
+- [x] [Merge Intervals](./Java/Medium/56. Merge Intervals/)
 - [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II
