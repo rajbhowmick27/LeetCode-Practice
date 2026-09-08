@@ -161,7 +161,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Valid Parenthesis String
 
 ### 📂 Intervals
-- [x] [Insert Interval](./C++/Medium/57. Insert Interval/)
+- [x] [Insert Interval](./Java/Medium/57. Insert Interval/)
 - [x] [Merge Intervals](./Java/Medium/56. Merge Intervals/)
 - [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms
