@@ -8,8 +8,8 @@
 Array, Binary Search, Design, Segment Tree, Prefix Sum, Ordered Set
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 81 ms
+- **Memory:** 47 MB
 
 ---
 
